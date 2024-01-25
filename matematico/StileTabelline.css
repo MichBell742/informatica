@@ -1,0 +1,14 @@
+.button{
+	-fx-font-family: Verdana;
+	-fx-font-size: 20;
+	-fx-background-color: rgb(255, 128, 128);
+	-fx-border-color:rgb(255, 128, 128);
+	-fx-border-radius: 25px;
+}
+.text-field{
+	-fx-background-color: rgb(255, 128, 128);
+	-fx-border-color: rgb(128, 0, 0);
+}
+.button:hover{
+	-fx-border-color:darkred;
+}

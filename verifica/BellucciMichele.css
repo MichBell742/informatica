@@ -1,0 +1,12 @@
+#griglia{
+	-fx-background-color: yellow;
+	-fx-padding:10;
+	-fx-hgap:10;
+	-fx-vgap:10;
+}
+.fontQuantita{
+	-fx-text-fill: red;
+}
+.text-field{
+	-fx-background-color: rgb(255, 128, 128);
+}

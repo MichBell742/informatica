@@ -1,0 +1,57 @@
+#punteggio{
+	-fx-font-size: 30px;
+}
+#sfondoCountDown{
+	-fx-fill: rgb(128, 128, 192);
+}
+.button{
+	-fx-pref-width: 200px;
+	-fx-background-color: rgb(128, 128, 192);
+	-fx-padding:5px;
+	-fx-background-radius: 250px;
+	-fx-border-radius: 250px;
+	-fx-border-color: rgb(64, 64, 130);
+	-fx-border-width: 3px;
+}
+.button:hover{
+	-fx-padding:3px;
+	-fx-border-color: rgb(64, 64, 130);
+	-fx-border-width: 5px;
+}
+#countDownLabel{
+	-fx-font-size: 30px;
+	-fx-text-fill: white;
+}
+#scrittaPunto{
+	-fx-font-size: 30px;
+	-fx-pref-width: 200px;
+	-fx-alignment:center;
+	-fx-text-fill: rgb(0, 0, 160);
+	-fx-font-weight: bold;
+	-fx-padding:10px;
+	-fx-background-color: rgb(128, 128, 192);
+	-fx-background-radius:25px;
+	-fx-border-width: 3px;
+	-fx-border-color: rgb(64, 64, 130);
+	-fx-border-radius:25px;
+}
+#centroCampo{
+	-fx-fill:rgba(0,0,0,0);
+	-fx-stroke: rgb(128, 128, 128);
+	-fx-stroke-width: 2px;
+}
+.slider{
+	-fx-pref-width: 200px;
+}
+#menuButton{
+	-fx-pref-width: 40px;
+}
+#titolo{
+	-fx-font-size: 30px;
+}
+#comunicazioni{
+	-fx-font-size: 15px;
+	-fx-pref-width: 300px;
+	-fx-text-alignment: center;
+	-fx-alignment:center;
+}
